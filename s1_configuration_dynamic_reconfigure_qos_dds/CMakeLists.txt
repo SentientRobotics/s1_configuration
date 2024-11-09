@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.8)
-project(s1_configuration_dynamic_reconfigure_QOS_DDS)
+project(s1_configuration_dynamic_reconfigure_qos_dds)
 
 if(CMAKE_COMPILER_IS_GNUCXX OR CMAKE_CXX_COMPILER_ID MATCHES "Clang")
   add_compile_options(-Wall -Wextra -Wpedantic)
